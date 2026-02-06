@@ -41,6 +41,7 @@ PORT=6051
 SARVAM_API_KEY=sk_
 # Optional
 SARVAM_MODEL=sarvam-m
+SYSTEM_PROMPT="You are a helpful assistant."
 ```
 
 ### 4. Running the Application
